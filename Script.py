@@ -214,9 +214,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═════════════════════ 
-╭─────── • ◆ • ────────────────╮
-😰 Horror Movies :  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 
-╰─────── • ◆ • ────────────────╯
+😰 Horror Movies :-  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 
 =========== • ✠ • ===========
 • ᴄʜᴀɴɴᴇʟ : @BhootBazar
 • sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @HdDMovieProviderBot
