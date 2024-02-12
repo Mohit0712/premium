@@ -212,7 +212,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 {file_name}
+🗂 @BhootBazar {file_name}
 ═════════════════════ 
 😰 Horror Movies :-  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 
 =========== • ✠ • ===========
