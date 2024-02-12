@@ -214,14 +214,19 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═════════════════════ 
-𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- @BhootBazarMovies</b>"""
+╭─────── • ◆ • ────────────────╮
+😰 Horror Movies :  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 
+╰─────── • ◆ • ────────────────╯
+=========== • ✠ • ===========
+• ᴄʜᴀɴɴᴇʟ : @BhootBazar
+• sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @HdDMovieProviderBot
+=========== • ✠ • ===========</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 IMDb Data:
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
 📆 Release Info : {release_date}
 """
     
