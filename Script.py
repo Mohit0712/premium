@@ -70,9 +70,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KUSHALHK>OWNER</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/earn4shareuser>OWNER</a></b>
   
- <b>✯ Join here : <a href=https://t.me/TG_UPDATES1>Join my updateds</a></b> 
+ <b>✯ Join here : <a href=https://t.me/bhootbazar>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -163,7 +163,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/TG_UPADTES1/346> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/earn4shareuser> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -171,9 +171,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://moneykamalo.com/ref/Harikushal>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://earn4share.onlinne>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/TG_UPDATES1/346> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/earn4shareuser> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -212,9 +212,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 @BhootBazar {file_name}
+🗂 {file_name}
 ═════════════════════ 
-😰 Horror Movies :-  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 
+😰 Horror Movies :-  <a href="BhootBazarMovies.com">Tᴏᴜᴄʜ here</a> 
 =========== • ✠ • ===========
 • ᴄʜᴀɴɴᴇʟ : @BhootBazar
 • sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @HdDMovieProviderBot
@@ -438,15 +438,15 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ᴠ2.8.1 [sᴛᴀʙʟᴇ] """
 
     LOGO = """
- ____  ___    ____   __  ____  ____ 
-(_  _)/ __)  (  _ \ /  \(_  _)(__  )
-  )( ( (_ \   ) _ ((  O ) )(   / _/ 
- (__) \___/  (____/ \__/ (__) (____)"""
+ ____  ___     
+(_  _)/ __)  
+  )( ( (_ \   
+ (__) \___/  """
 
 # dont remove my logo 
     PAID_TXT = """<b>Join a Prime group to get free movie without any ads
 Your time is valuable, Stop watching ads and simply avoid the stupidity
-<a href='https://telegram.me/+uaYeWVXMRrk2Zjk1'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
+<a href='https://telegram.me/earn4shareuser'>➹ 🅰︎🅳︎ 🅵︎🆁︎🅴︎🅴︎ 🅶︎🆁︎🅾︎🆄︎🅿︎ ➹</a>
 
 Prime Membership Progress
 
