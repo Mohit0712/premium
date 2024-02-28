@@ -2169,12 +2169,48 @@ button:active {
    <div class="outer">
         <div class="inner">
             <div class="main" id="main">
-              <video controls style="height: 30vh; width: 100%;">
-        <source src="{{file_url}}" type="video/mp4">
-    </video>
+             <div style="position: relative; width: 100%; height: auto;">
+  <video id="mainVideo" controls style="width: 100%;">
+     <source src="{{file_url}}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <video id="adVideo" style="display: none; position: absolute; top: 0; left: 0; width: 100%;">
+    <source src="https://BhootBazarMovies.com/ads.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <div id="adOverlay" style="display: none; position: absolute; top: 10px; left: 50%; transform: translateX(-50%); background-color: black; color: white; padding: 10px;">
+   <h3 style="margin: 0;">Advertisement 30sec </h3>
+  </div>
+</div>
+
+<script>
+  var mainVideo = document.getElementById('mainVideo');
+  var adVideo = document.getElementById('adVideo');
+  var adOverlay = document.getElementById('adOverlay');
+
+  // Play the ad video after a certain time (e.g., 5 seconds) of the main video playback
+  mainVideo.addEventListener('timeupdate', function() {
+    if (mainVideo.currentTime >= 15 && !adVideo.played.length) {
+      adVideo.style.display = 'block';
+      adOverlay.style.display = 'block';
+      adVideo.play();
+      mainVideo.pause();
+    }
+  });
+
+  // Remove the ad video overlay and resume the main video when the ad video ends
+  adVideo.addEventListener('ended', function() {
+    adVideo.style.display = 'none';
+    adOverlay.style.display = 'none';
+    mainVideo.play();
+  });
+</script>
+
                 <div class="player"></div>
                 <div class="file-name">
-                    <h4>File name : </h4>
+                    <h4>File name : <Font Color="Blue"> <a href="https://telegram.me/BhootBazar"> @BhootBazar</a></h4></Font>
                     <pre id="myDiv" width="80%">{{file_name}}</pre>
                     <br>
                     If language is diffrent or Sound Not Coming Please Use The Vlc Player
@@ -2196,7 +2232,11 @@ button:active {
                     </button>
                    </a>
 
-                    
+                 <!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/hit.js"></script><script type="text/javascript">sc_hit(1685409,10,4);</script><br><noscript><a href="http://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+    
                 </div>
 
             </div>
