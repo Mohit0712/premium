@@ -112,9 +112,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://prostream-1a1c48789ea8.herokuapp.com/".format(FQDN)
+    URL = "https://hdproviderrr-943b9141eb27.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://prostream-1a1c48789ea8.herokuapp.com/".format(FQDN)
+    URL = "https://hdproviderrr-943b9141eb27.herokuapp.com/".format(FQDN)
 
 
 
